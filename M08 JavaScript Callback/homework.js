@@ -64,7 +64,7 @@ function filter(arrayOfStrings) {
     }
    }
    return(nuevoArreglo);
-}
+};
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
